@@ -14,7 +14,6 @@ import {
   TwitterIcon,
   InstagramIcon,
   SubstackIcon,
-  ImageIcon,
 } from "@/components/icons";
 import { SidebarLink } from "@/components/sidebar";
 
