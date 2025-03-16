@@ -38,12 +38,12 @@ export function AppSidebar() {
               isPrimary
               isActive
             />
-            <SidebarLink
+            {/* <SidebarLink
               href="/photos"
               icon={<ImageIcon className="h-4 w-4" />}
               label="Photos"
               isPrimary
-            />
+            /> */}
           </SidebarMenu>
         </SidebarGroup>
         <SidebarGroup className="mt-auto">
